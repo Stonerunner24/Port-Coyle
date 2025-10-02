@@ -5,9 +5,9 @@ import './Projects.css'
 const Projects = () => {
   const projects = [
     {
-      title: 'E-Commerce Platform',
-      description: 'A full-stack e-commerce application with cart functionality, payment integration, and admin dashboard.',
-      technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
+      title: 'OC Asset Tracking',
+      description: 'A full-stack asset tracking system in use at Oklahoma Christian University.',
+      technologies: ['Vue.JS', 'Node.js', 'MySQL', 'Vuetify', 'Figma'],
       github: 'https://github.com/yourusername/project1',
       live: 'https://project1-demo.com',
       image: 'gradient1',

@@ -33,7 +33,7 @@ const About = () => {
               in creating user-friendly interfaces and robust backend systems.
             </p>
             <p>
-              My journey in software development with a love for building things. I found software 
+              My journey in software development began with a love for building things. I found software 
               to be a great way to express my creativity and build things that can help people. 
               It has also lead to a deep love of problem solving, learning new things, and sharing
               that knowledge with others. 

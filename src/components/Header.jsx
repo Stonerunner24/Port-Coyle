@@ -10,7 +10,6 @@ const Header = ({ scrolled }) => {
     { name: 'About', href: '#about' },
     { name: 'Projects', href: '#projects' },
     { name: 'Skills', href: '#skills' },
-    { name: 'Contact', href: '#contact' },
   ]
 
   const handleNavClick = (e, href) => {
@@ -27,7 +26,7 @@ const Header = ({ scrolled }) => {
       <div className="container">
         <div className="header-content">
           <a href="#home" className="logo" onClick={(e) => handleNavClick(e, '#home')}>
-            &lt;Portfolio /&gt;
+            Port Coyle 
           </a>
 
           <nav className={`nav ${menuOpen ? 'open' : ''}`}>
